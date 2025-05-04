@@ -2,6 +2,8 @@
 - Programador em NodeJs, Html, Css, Python, C++, C#
 - Estudando engenharia social
 
+# ![snake gif](https://github.com/your-user-name/your-user-name/blob/output/github-contribution-grid-snake.gif)
+
 ## Olá, sou l2qqz, programador de bots do discord
 
 Pessoal que veio atrás do **Github Stats:** a API provavelmente saiu do ar nesse período,
