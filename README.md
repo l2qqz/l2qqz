@@ -6,6 +6,7 @@
 
 ## Olá, sou l2qqz, programador de bots do discord
 
+
 <div style="display: inline_block"><br>
 <img align="center" alt="l2qqz-Cplusplus" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
 <img align="center" alt="l2qqz-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
