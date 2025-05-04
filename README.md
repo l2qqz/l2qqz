@@ -2,8 +2,6 @@
 - Programador em NodeJs, Html, Css, Python, C++, C#
 - Estudando engenharia social
 
-# ![snake gif](https://github.com/l2qqz/l2qqz/blob/output/github-contribution-grid-snake.gif)
-
 ## Olá, sou l2qqz, programador de bots do discord
 
 
